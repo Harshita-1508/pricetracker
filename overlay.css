@@ -1,0 +1,7 @@
+#vp-selection-box {
+  position: fixed;
+  border: 2px dashed #00ff00;
+  background-color: rgba(0, 255, 0, 0.15);
+  z-index: 9999999;
+  pointer-events: none;
+}
